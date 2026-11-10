@@ -57,7 +57,7 @@ No screenshots are included yet. To add yours:
 - Name: [Your Name]
 - Course: [Course / Certification Name]
 - Institution: [Your College]
-- GitHub: [https://github.com/your-username]
+- GitHub: [https://github.com/infernstroy]
 
 ## License
 MIT. See `LICENSE`. Replace `[Your Name]` in that file.
